@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "legendsio_discord"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Discord bot that provides helpful tools for free agents in the competitive CoD scene"
 authors = ["Dylan Garrett"]
 license = "MIT"
